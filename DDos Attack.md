@@ -28,7 +28,7 @@ How to prevent ?
 - Watch for patterns and high requests.
 
 6. API  Specific Protection
-- JWT Validation
+- JWT Validation ( JSON Web Token )
 - Per-key rate limit
 - API Keys
 - Trottling per endpoint
