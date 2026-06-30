@@ -10,3 +10,13 @@ Downlaoded at : `go/bin/`
 ```
 ./nuclei -u https://domain.com
 ```
+### Complete opensource setup:
+```
+Subfinder/Amass
+   |
+httpx
+   |
+Nuclei
+   |
+OWSAP ZAP
+```
